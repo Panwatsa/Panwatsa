@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panwatsa
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python
+ - 👀 I’m interested in Coding 
+  - 🌱 I’m currently learning Python
  
 
 <!---
